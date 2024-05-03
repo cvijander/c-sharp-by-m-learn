@@ -1,0 +1,14 @@
+K:\Microsoft learn\C#\Unos i vracanje nasih podataka\Unos i vracanje nasih podataka\bin\Debug\net8.0\Unos i vracanje nasih podataka.exe
+K:\Microsoft learn\C#\Unos i vracanje nasih podataka\Unos i vracanje nasih podataka\bin\Debug\net8.0\Unos i vracanje nasih podataka.deps.json
+K:\Microsoft learn\C#\Unos i vracanje nasih podataka\Unos i vracanje nasih podataka\bin\Debug\net8.0\Unos i vracanje nasih podataka.runtimeconfig.json
+K:\Microsoft learn\C#\Unos i vracanje nasih podataka\Unos i vracanje nasih podataka\bin\Debug\net8.0\Unos i vracanje nasih podataka.dll
+K:\Microsoft learn\C#\Unos i vracanje nasih podataka\Unos i vracanje nasih podataka\bin\Debug\net8.0\Unos i vracanje nasih podataka.pdb
+K:\Microsoft learn\C#\Unos i vracanje nasih podataka\Unos i vracanje nasih podataka\obj\Debug\net8.0\Unos i vracanje nasih podataka.GeneratedMSBuildEditorConfig.editorconfig
+K:\Microsoft learn\C#\Unos i vracanje nasih podataka\Unos i vracanje nasih podataka\obj\Debug\net8.0\Unos i vracanje nasih podataka.AssemblyInfoInputs.cache
+K:\Microsoft learn\C#\Unos i vracanje nasih podataka\Unos i vracanje nasih podataka\obj\Debug\net8.0\Unos i vracanje nasih podataka.AssemblyInfo.cs
+K:\Microsoft learn\C#\Unos i vracanje nasih podataka\Unos i vracanje nasih podataka\obj\Debug\net8.0\Unos i vracanje nasih podataka.csproj.CoreCompileInputs.cache
+K:\Microsoft learn\C#\Unos i vracanje nasih podataka\Unos i vracanje nasih podataka\obj\Debug\net8.0\Unos i vracanje nasih podataka.dll
+K:\Microsoft learn\C#\Unos i vracanje nasih podataka\Unos i vracanje nasih podataka\obj\Debug\net8.0\refint\Unos i vracanje nasih podataka.dll
+K:\Microsoft learn\C#\Unos i vracanje nasih podataka\Unos i vracanje nasih podataka\obj\Debug\net8.0\Unos i vracanje nasih podataka.pdb
+K:\Microsoft learn\C#\Unos i vracanje nasih podataka\Unos i vracanje nasih podataka\obj\Debug\net8.0\Unos i vracanje nasih podataka.genruntimeconfig.cache
+K:\Microsoft learn\C#\Unos i vracanje nasih podataka\Unos i vracanje nasih podataka\obj\Debug\net8.0\ref\Unos i vracanje nasih podataka.dll

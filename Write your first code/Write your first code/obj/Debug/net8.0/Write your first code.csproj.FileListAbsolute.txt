@@ -1,0 +1,14 @@
+K:\Microsoft learn\C#\Write your first code\Write your first code\bin\Debug\net8.0\Write your first code.exe
+K:\Microsoft learn\C#\Write your first code\Write your first code\bin\Debug\net8.0\Write your first code.deps.json
+K:\Microsoft learn\C#\Write your first code\Write your first code\bin\Debug\net8.0\Write your first code.runtimeconfig.json
+K:\Microsoft learn\C#\Write your first code\Write your first code\bin\Debug\net8.0\Write your first code.dll
+K:\Microsoft learn\C#\Write your first code\Write your first code\bin\Debug\net8.0\Write your first code.pdb
+K:\Microsoft learn\C#\Write your first code\Write your first code\obj\Debug\net8.0\Write your first code.GeneratedMSBuildEditorConfig.editorconfig
+K:\Microsoft learn\C#\Write your first code\Write your first code\obj\Debug\net8.0\Write your first code.AssemblyInfoInputs.cache
+K:\Microsoft learn\C#\Write your first code\Write your first code\obj\Debug\net8.0\Write your first code.AssemblyInfo.cs
+K:\Microsoft learn\C#\Write your first code\Write your first code\obj\Debug\net8.0\Write your first code.csproj.CoreCompileInputs.cache
+K:\Microsoft learn\C#\Write your first code\Write your first code\obj\Debug\net8.0\Write your first code.dll
+K:\Microsoft learn\C#\Write your first code\Write your first code\obj\Debug\net8.0\refint\Write your first code.dll
+K:\Microsoft learn\C#\Write your first code\Write your first code\obj\Debug\net8.0\Write your first code.pdb
+K:\Microsoft learn\C#\Write your first code\Write your first code\obj\Debug\net8.0\Write your first code.genruntimeconfig.cache
+K:\Microsoft learn\C#\Write your first code\Write your first code\obj\Debug\net8.0\ref\Write your first code.dll

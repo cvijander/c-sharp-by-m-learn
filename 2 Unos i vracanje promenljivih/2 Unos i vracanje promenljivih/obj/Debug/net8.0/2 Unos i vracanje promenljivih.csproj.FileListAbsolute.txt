@@ -1,0 +1,14 @@
+K:\Microsoft learn\C#\2 Unos i vracanje promenljivih\2 Unos i vracanje promenljivih\bin\Debug\net8.0\2 Unos i vracanje promenljivih.exe
+K:\Microsoft learn\C#\2 Unos i vracanje promenljivih\2 Unos i vracanje promenljivih\bin\Debug\net8.0\2 Unos i vracanje promenljivih.deps.json
+K:\Microsoft learn\C#\2 Unos i vracanje promenljivih\2 Unos i vracanje promenljivih\bin\Debug\net8.0\2 Unos i vracanje promenljivih.runtimeconfig.json
+K:\Microsoft learn\C#\2 Unos i vracanje promenljivih\2 Unos i vracanje promenljivih\bin\Debug\net8.0\2 Unos i vracanje promenljivih.dll
+K:\Microsoft learn\C#\2 Unos i vracanje promenljivih\2 Unos i vracanje promenljivih\bin\Debug\net8.0\2 Unos i vracanje promenljivih.pdb
+K:\Microsoft learn\C#\2 Unos i vracanje promenljivih\2 Unos i vracanje promenljivih\obj\Debug\net8.0\2 Unos i vracanje promenljivih.GeneratedMSBuildEditorConfig.editorconfig
+K:\Microsoft learn\C#\2 Unos i vracanje promenljivih\2 Unos i vracanje promenljivih\obj\Debug\net8.0\2 Unos i vracanje promenljivih.AssemblyInfoInputs.cache
+K:\Microsoft learn\C#\2 Unos i vracanje promenljivih\2 Unos i vracanje promenljivih\obj\Debug\net8.0\2 Unos i vracanje promenljivih.AssemblyInfo.cs
+K:\Microsoft learn\C#\2 Unos i vracanje promenljivih\2 Unos i vracanje promenljivih\obj\Debug\net8.0\2 Unos i vracanje promenljivih.csproj.CoreCompileInputs.cache
+K:\Microsoft learn\C#\2 Unos i vracanje promenljivih\2 Unos i vracanje promenljivih\obj\Debug\net8.0\2 Unos i vracanje promenljivih.dll
+K:\Microsoft learn\C#\2 Unos i vracanje promenljivih\2 Unos i vracanje promenljivih\obj\Debug\net8.0\refint\2 Unos i vracanje promenljivih.dll
+K:\Microsoft learn\C#\2 Unos i vracanje promenljivih\2 Unos i vracanje promenljivih\obj\Debug\net8.0\2 Unos i vracanje promenljivih.pdb
+K:\Microsoft learn\C#\2 Unos i vracanje promenljivih\2 Unos i vracanje promenljivih\obj\Debug\net8.0\2 Unos i vracanje promenljivih.genruntimeconfig.cache
+K:\Microsoft learn\C#\2 Unos i vracanje promenljivih\2 Unos i vracanje promenljivih\obj\Debug\net8.0\ref\2 Unos i vracanje promenljivih.dll
