@@ -1,0 +1,15 @@
+K:\Microsoft learn\C#\Sabiranje intigera\Sabiranje intigera\bin\Debug\net8.0\Sabiranje intigera.exe
+K:\Microsoft learn\C#\Sabiranje intigera\Sabiranje intigera\bin\Debug\net8.0\Sabiranje intigera.deps.json
+K:\Microsoft learn\C#\Sabiranje intigera\Sabiranje intigera\bin\Debug\net8.0\Sabiranje intigera.runtimeconfig.json
+K:\Microsoft learn\C#\Sabiranje intigera\Sabiranje intigera\bin\Debug\net8.0\Sabiranje intigera.dll
+K:\Microsoft learn\C#\Sabiranje intigera\Sabiranje intigera\bin\Debug\net8.0\Sabiranje intigera.pdb
+K:\Microsoft learn\C#\Sabiranje intigera\Sabiranje intigera\obj\Debug\net8.0\Sabiranje intigera.GeneratedMSBuildEditorConfig.editorconfig
+K:\Microsoft learn\C#\Sabiranje intigera\Sabiranje intigera\obj\Debug\net8.0\Sabiranje intigera.AssemblyInfoInputs.cache
+K:\Microsoft learn\C#\Sabiranje intigera\Sabiranje intigera\obj\Debug\net8.0\Sabiranje intigera.AssemblyInfo.cs
+K:\Microsoft learn\C#\Sabiranje intigera\Sabiranje intigera\obj\Debug\net8.0\Sabiranje intigera.csproj.CoreCompileInputs.cache
+K:\Microsoft learn\C#\Sabiranje intigera\Sabiranje intigera\obj\Debug\net8.0\Sabiranje intigera.sourcelink.json
+K:\Microsoft learn\C#\Sabiranje intigera\Sabiranje intigera\obj\Debug\net8.0\Sabiranje intigera.dll
+K:\Microsoft learn\C#\Sabiranje intigera\Sabiranje intigera\obj\Debug\net8.0\refint\Sabiranje intigera.dll
+K:\Microsoft learn\C#\Sabiranje intigera\Sabiranje intigera\obj\Debug\net8.0\Sabiranje intigera.pdb
+K:\Microsoft learn\C#\Sabiranje intigera\Sabiranje intigera\obj\Debug\net8.0\Sabiranje intigera.genruntimeconfig.cache
+K:\Microsoft learn\C#\Sabiranje intigera\Sabiranje intigera\obj\Debug\net8.0\ref\Sabiranje intigera.dll

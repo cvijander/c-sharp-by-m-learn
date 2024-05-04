@@ -1,0 +1,15 @@
+K:\Microsoft learn\C#\Increment i dekrement\Increment i dekrement\bin\Debug\net8.0\Increment i dekrement.exe
+K:\Microsoft learn\C#\Increment i dekrement\Increment i dekrement\bin\Debug\net8.0\Increment i dekrement.deps.json
+K:\Microsoft learn\C#\Increment i dekrement\Increment i dekrement\bin\Debug\net8.0\Increment i dekrement.runtimeconfig.json
+K:\Microsoft learn\C#\Increment i dekrement\Increment i dekrement\bin\Debug\net8.0\Increment i dekrement.dll
+K:\Microsoft learn\C#\Increment i dekrement\Increment i dekrement\bin\Debug\net8.0\Increment i dekrement.pdb
+K:\Microsoft learn\C#\Increment i dekrement\Increment i dekrement\obj\Debug\net8.0\Increment i dekrement.GeneratedMSBuildEditorConfig.editorconfig
+K:\Microsoft learn\C#\Increment i dekrement\Increment i dekrement\obj\Debug\net8.0\Increment i dekrement.AssemblyInfoInputs.cache
+K:\Microsoft learn\C#\Increment i dekrement\Increment i dekrement\obj\Debug\net8.0\Increment i dekrement.AssemblyInfo.cs
+K:\Microsoft learn\C#\Increment i dekrement\Increment i dekrement\obj\Debug\net8.0\Increment i dekrement.csproj.CoreCompileInputs.cache
+K:\Microsoft learn\C#\Increment i dekrement\Increment i dekrement\obj\Debug\net8.0\Increment i dekrement.sourcelink.json
+K:\Microsoft learn\C#\Increment i dekrement\Increment i dekrement\obj\Debug\net8.0\Increment i dekrement.dll
+K:\Microsoft learn\C#\Increment i dekrement\Increment i dekrement\obj\Debug\net8.0\refint\Increment i dekrement.dll
+K:\Microsoft learn\C#\Increment i dekrement\Increment i dekrement\obj\Debug\net8.0\Increment i dekrement.pdb
+K:\Microsoft learn\C#\Increment i dekrement\Increment i dekrement\obj\Debug\net8.0\Increment i dekrement.genruntimeconfig.cache
+K:\Microsoft learn\C#\Increment i dekrement\Increment i dekrement\obj\Debug\net8.0\ref\Increment i dekrement.dll

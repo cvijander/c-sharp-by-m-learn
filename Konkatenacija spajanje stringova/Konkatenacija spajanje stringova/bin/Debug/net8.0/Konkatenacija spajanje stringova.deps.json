@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Konkatenacija spajanje stringova/1.0.0": {
+        "runtime": {
+          "Konkatenacija spajanje stringova.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Konkatenacija spajanje stringova/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

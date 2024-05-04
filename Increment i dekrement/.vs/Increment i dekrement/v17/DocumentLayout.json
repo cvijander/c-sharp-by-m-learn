@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\Microsoft learn\\C#\\Increment i dekrement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDDEB3A-2FA5-4438-BDCB-F0A80D3798F6}|Increment i dekrement\\Increment i dekrement.csproj|k:\\microsoft learn\\c#\\increment i dekrement\\increment i dekrement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDDEB3A-2FA5-4438-BDCB-F0A80D3798F6}|Increment i dekrement\\Increment i dekrement.csproj|solutionrelative:increment i dekrement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\Microsoft learn\\C#\\Increment i dekrement\\Increment i dekrement\\Program.cs",
+              "RelativeDocumentMoniker": "Increment i dekrement\\Program.cs",
+              "ToolTip": "K:\\Microsoft learn\\C#\\Increment i dekrement\\Increment i dekrement\\Program.cs",
+              "RelativeToolTip": "Increment i dekrement\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwEUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T23:00:38.595Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+K:\Microsoft learn\C#\Konkatenacija spajanje stringova\Konkatenacija spajanje stringova\bin\Debug\net8.0\Konkatenacija spajanje stringova.exe
+K:\Microsoft learn\C#\Konkatenacija spajanje stringova\Konkatenacija spajanje stringova\bin\Debug\net8.0\Konkatenacija spajanje stringova.deps.json
+K:\Microsoft learn\C#\Konkatenacija spajanje stringova\Konkatenacija spajanje stringova\bin\Debug\net8.0\Konkatenacija spajanje stringova.runtimeconfig.json
+K:\Microsoft learn\C#\Konkatenacija spajanje stringova\Konkatenacija spajanje stringova\bin\Debug\net8.0\Konkatenacija spajanje stringova.dll
+K:\Microsoft learn\C#\Konkatenacija spajanje stringova\Konkatenacija spajanje stringova\bin\Debug\net8.0\Konkatenacija spajanje stringova.pdb
+K:\Microsoft learn\C#\Konkatenacija spajanje stringova\Konkatenacija spajanje stringova\obj\Debug\net8.0\Konkatenacija spajanje stringova.GeneratedMSBuildEditorConfig.editorconfig
+K:\Microsoft learn\C#\Konkatenacija spajanje stringova\Konkatenacija spajanje stringova\obj\Debug\net8.0\Konkatenacija spajanje stringova.AssemblyInfoInputs.cache
+K:\Microsoft learn\C#\Konkatenacija spajanje stringova\Konkatenacija spajanje stringova\obj\Debug\net8.0\Konkatenacija spajanje stringova.AssemblyInfo.cs
+K:\Microsoft learn\C#\Konkatenacija spajanje stringova\Konkatenacija spajanje stringova\obj\Debug\net8.0\Konkatenacija spajanje stringova.csproj.CoreCompileInputs.cache
+K:\Microsoft learn\C#\Konkatenacija spajanje stringova\Konkatenacija spajanje stringova\obj\Debug\net8.0\Konkatenacija spajanje stringova.sourcelink.json
+K:\Microsoft learn\C#\Konkatenacija spajanje stringova\Konkatenacija spajanje stringova\obj\Debug\net8.0\Konkatenacija spajanje stringova.dll
+K:\Microsoft learn\C#\Konkatenacija spajanje stringova\Konkatenacija spajanje stringova\obj\Debug\net8.0\refint\Konkatenacija spajanje stringova.dll
+K:\Microsoft learn\C#\Konkatenacija spajanje stringova\Konkatenacija spajanje stringova\obj\Debug\net8.0\Konkatenacija spajanje stringova.pdb
+K:\Microsoft learn\C#\Konkatenacija spajanje stringova\Konkatenacija spajanje stringova\obj\Debug\net8.0\Konkatenacija spajanje stringova.genruntimeconfig.cache
+K:\Microsoft learn\C#\Konkatenacija spajanje stringova\Konkatenacija spajanje stringova\obj\Debug\net8.0\ref\Konkatenacija spajanje stringova.dll

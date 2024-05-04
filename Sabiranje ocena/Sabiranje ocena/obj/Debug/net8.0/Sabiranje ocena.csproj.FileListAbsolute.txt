@@ -1,0 +1,15 @@
+K:\Microsoft learn\C#\Sabiranje ocena\Sabiranje ocena\bin\Debug\net8.0\Sabiranje ocena.exe
+K:\Microsoft learn\C#\Sabiranje ocena\Sabiranje ocena\bin\Debug\net8.0\Sabiranje ocena.deps.json
+K:\Microsoft learn\C#\Sabiranje ocena\Sabiranje ocena\bin\Debug\net8.0\Sabiranje ocena.runtimeconfig.json
+K:\Microsoft learn\C#\Sabiranje ocena\Sabiranje ocena\bin\Debug\net8.0\Sabiranje ocena.dll
+K:\Microsoft learn\C#\Sabiranje ocena\Sabiranje ocena\bin\Debug\net8.0\Sabiranje ocena.pdb
+K:\Microsoft learn\C#\Sabiranje ocena\Sabiranje ocena\obj\Debug\net8.0\Sabiranje ocena.GeneratedMSBuildEditorConfig.editorconfig
+K:\Microsoft learn\C#\Sabiranje ocena\Sabiranje ocena\obj\Debug\net8.0\Sabiranje ocena.AssemblyInfoInputs.cache
+K:\Microsoft learn\C#\Sabiranje ocena\Sabiranje ocena\obj\Debug\net8.0\Sabiranje ocena.AssemblyInfo.cs
+K:\Microsoft learn\C#\Sabiranje ocena\Sabiranje ocena\obj\Debug\net8.0\Sabiranje ocena.csproj.CoreCompileInputs.cache
+K:\Microsoft learn\C#\Sabiranje ocena\Sabiranje ocena\obj\Debug\net8.0\Sabiranje ocena.sourcelink.json
+K:\Microsoft learn\C#\Sabiranje ocena\Sabiranje ocena\obj\Debug\net8.0\Sabiranje ocena.dll
+K:\Microsoft learn\C#\Sabiranje ocena\Sabiranje ocena\obj\Debug\net8.0\refint\Sabiranje ocena.dll
+K:\Microsoft learn\C#\Sabiranje ocena\Sabiranje ocena\obj\Debug\net8.0\Sabiranje ocena.pdb
+K:\Microsoft learn\C#\Sabiranje ocena\Sabiranje ocena\obj\Debug\net8.0\Sabiranje ocena.genruntimeconfig.cache
+K:\Microsoft learn\C#\Sabiranje ocena\Sabiranje ocena\obj\Debug\net8.0\ref\Sabiranje ocena.dll

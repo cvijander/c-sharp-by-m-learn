@@ -1,0 +1,15 @@
+K:\Microsoft learn\C#\Specijalni karakteri\Specijalni karakteri\bin\Debug\net8.0\Specijalni karakteri.exe
+K:\Microsoft learn\C#\Specijalni karakteri\Specijalni karakteri\bin\Debug\net8.0\Specijalni karakteri.deps.json
+K:\Microsoft learn\C#\Specijalni karakteri\Specijalni karakteri\bin\Debug\net8.0\Specijalni karakteri.runtimeconfig.json
+K:\Microsoft learn\C#\Specijalni karakteri\Specijalni karakteri\bin\Debug\net8.0\Specijalni karakteri.dll
+K:\Microsoft learn\C#\Specijalni karakteri\Specijalni karakteri\bin\Debug\net8.0\Specijalni karakteri.pdb
+K:\Microsoft learn\C#\Specijalni karakteri\Specijalni karakteri\obj\Debug\net8.0\Specijalni karakteri.GeneratedMSBuildEditorConfig.editorconfig
+K:\Microsoft learn\C#\Specijalni karakteri\Specijalni karakteri\obj\Debug\net8.0\Specijalni karakteri.AssemblyInfoInputs.cache
+K:\Microsoft learn\C#\Specijalni karakteri\Specijalni karakteri\obj\Debug\net8.0\Specijalni karakteri.AssemblyInfo.cs
+K:\Microsoft learn\C#\Specijalni karakteri\Specijalni karakteri\obj\Debug\net8.0\Specijalni karakteri.csproj.CoreCompileInputs.cache
+K:\Microsoft learn\C#\Specijalni karakteri\Specijalni karakteri\obj\Debug\net8.0\Specijalni karakteri.sourcelink.json
+K:\Microsoft learn\C#\Specijalni karakteri\Specijalni karakteri\obj\Debug\net8.0\Specijalni karakteri.dll
+K:\Microsoft learn\C#\Specijalni karakteri\Specijalni karakteri\obj\Debug\net8.0\refint\Specijalni karakteri.dll
+K:\Microsoft learn\C#\Specijalni karakteri\Specijalni karakteri\obj\Debug\net8.0\Specijalni karakteri.pdb
+K:\Microsoft learn\C#\Specijalni karakteri\Specijalni karakteri\obj\Debug\net8.0\Specijalni karakteri.genruntimeconfig.cache
+K:\Microsoft learn\C#\Specijalni karakteri\Specijalni karakteri\obj\Debug\net8.0\ref\Specijalni karakteri.dll

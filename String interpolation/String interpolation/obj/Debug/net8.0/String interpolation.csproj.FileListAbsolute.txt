@@ -1,0 +1,15 @@
+K:\Microsoft learn\C#\String interpolation\String interpolation\bin\Debug\net8.0\String interpolation.exe
+K:\Microsoft learn\C#\String interpolation\String interpolation\bin\Debug\net8.0\String interpolation.deps.json
+K:\Microsoft learn\C#\String interpolation\String interpolation\bin\Debug\net8.0\String interpolation.runtimeconfig.json
+K:\Microsoft learn\C#\String interpolation\String interpolation\bin\Debug\net8.0\String interpolation.dll
+K:\Microsoft learn\C#\String interpolation\String interpolation\bin\Debug\net8.0\String interpolation.pdb
+K:\Microsoft learn\C#\String interpolation\String interpolation\obj\Debug\net8.0\String interpolation.GeneratedMSBuildEditorConfig.editorconfig
+K:\Microsoft learn\C#\String interpolation\String interpolation\obj\Debug\net8.0\String interpolation.AssemblyInfoInputs.cache
+K:\Microsoft learn\C#\String interpolation\String interpolation\obj\Debug\net8.0\String interpolation.AssemblyInfo.cs
+K:\Microsoft learn\C#\String interpolation\String interpolation\obj\Debug\net8.0\String interpolation.csproj.CoreCompileInputs.cache
+K:\Microsoft learn\C#\String interpolation\String interpolation\obj\Debug\net8.0\String interpolation.sourcelink.json
+K:\Microsoft learn\C#\String interpolation\String interpolation\obj\Debug\net8.0\String interpolation.dll
+K:\Microsoft learn\C#\String interpolation\String interpolation\obj\Debug\net8.0\refint\String interpolation.dll
+K:\Microsoft learn\C#\String interpolation\String interpolation\obj\Debug\net8.0\String interpolation.pdb
+K:\Microsoft learn\C#\String interpolation\String interpolation\obj\Debug\net8.0\String interpolation.genruntimeconfig.cache
+K:\Microsoft learn\C#\String interpolation\String interpolation\obj\Debug\net8.0\ref\String interpolation.dll

@@ -1,0 +1,15 @@
+K:\Microsoft learn\C#\Aritmeticke operacije\Aritmeticke operacije\bin\Debug\net8.0\Aritmeticke operacije.exe
+K:\Microsoft learn\C#\Aritmeticke operacije\Aritmeticke operacije\bin\Debug\net8.0\Aritmeticke operacije.deps.json
+K:\Microsoft learn\C#\Aritmeticke operacije\Aritmeticke operacije\bin\Debug\net8.0\Aritmeticke operacije.runtimeconfig.json
+K:\Microsoft learn\C#\Aritmeticke operacije\Aritmeticke operacije\bin\Debug\net8.0\Aritmeticke operacije.dll
+K:\Microsoft learn\C#\Aritmeticke operacije\Aritmeticke operacije\bin\Debug\net8.0\Aritmeticke operacije.pdb
+K:\Microsoft learn\C#\Aritmeticke operacije\Aritmeticke operacije\obj\Debug\net8.0\Aritmeticke operacije.GeneratedMSBuildEditorConfig.editorconfig
+K:\Microsoft learn\C#\Aritmeticke operacije\Aritmeticke operacije\obj\Debug\net8.0\Aritmeticke operacije.AssemblyInfoInputs.cache
+K:\Microsoft learn\C#\Aritmeticke operacije\Aritmeticke operacije\obj\Debug\net8.0\Aritmeticke operacije.AssemblyInfo.cs
+K:\Microsoft learn\C#\Aritmeticke operacije\Aritmeticke operacije\obj\Debug\net8.0\Aritmeticke operacije.csproj.CoreCompileInputs.cache
+K:\Microsoft learn\C#\Aritmeticke operacije\Aritmeticke operacije\obj\Debug\net8.0\Aritmeticke operacije.sourcelink.json
+K:\Microsoft learn\C#\Aritmeticke operacije\Aritmeticke operacije\obj\Debug\net8.0\Aritmeticke operacije.dll
+K:\Microsoft learn\C#\Aritmeticke operacije\Aritmeticke operacije\obj\Debug\net8.0\refint\Aritmeticke operacije.dll
+K:\Microsoft learn\C#\Aritmeticke operacije\Aritmeticke operacije\obj\Debug\net8.0\Aritmeticke operacije.pdb
+K:\Microsoft learn\C#\Aritmeticke operacije\Aritmeticke operacije\obj\Debug\net8.0\Aritmeticke operacije.genruntimeconfig.cache
+K:\Microsoft learn\C#\Aritmeticke operacije\Aritmeticke operacije\obj\Debug\net8.0\ref\Aritmeticke operacije.dll
